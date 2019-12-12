@@ -116,7 +116,7 @@ val=1;
 //       $(b3).addClass('bc');
 
 addclass();
-// document.getElementById("mar").innerHTML="Game over!.....Game over!";
+ document.getElementById("mar").innerHTML="Game over!.....Game over!";
 document.getElementById('gif').innerHTML = "<img src=\"source.gif\" width=\"300px\" height=\"300px\">";
   if(b1.innerHTML=="X"){
     countx++;
